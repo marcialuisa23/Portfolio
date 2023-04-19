@@ -67,6 +67,7 @@ h3 {
     font-size: 45px;
     line-height: 2;
   }
+
   .project-description {
     padding: 0;
     text-align: center;
@@ -81,7 +82,7 @@ h3 {
   font-size: 18px;
   font-family: var(--secondary-color);
 }
-.content-container{
+.content-container {
   padding: 160px 20px;
   text-align: center;
   padding: 0;
@@ -92,4 +93,29 @@ h3 {
 .photo {
   width: 300px;
   height: auto;
+}
+nav {
+  padding: 20px 0;
+}
+nav li {
+  display: inline;
+  list-style: none;
+  line-height: 42px;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  width: 50px;
+}
+nav a {
+  margin-left: 15px;
+  text-decoration: none;
+  color: var(--secondary-color);
+  transition: all 100ms ease-in-out;
+}
+
+nav a:hover {
+  color: var(--primary-color);
 }
