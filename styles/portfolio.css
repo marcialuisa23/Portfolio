@@ -102,6 +102,9 @@ nav li {
   list-style: none;
   line-height: 42px;
 }
+nav li.active a {
+  color: var(--primary-color);
+}
 nav ul {
   margin: 0;
   padding: 0;
