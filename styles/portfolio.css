@@ -73,20 +73,20 @@ h3 {
   }
 }
 
-.about-section h1 {
+.content-container h1 {
   font-size: 54px;
   line-height: 80px;
 }
-.about-section h2 {
+.content-container h2 {
   font-size: 18px;
   font-family: var(--secondary-color);
 }
-.about-section {
+.content-container{
   padding: 160px 20px;
   text-align: center;
   padding: 0;
 }
-.about-section-content {
+.content {
   padding: 30px;
 }
 .photo {
