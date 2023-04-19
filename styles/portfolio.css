@@ -89,3 +89,7 @@ h3 {
 .about-section-content {
   padding: 30px;
 }
+.photo {
+  width: 300px;
+  height: auto;
+}
