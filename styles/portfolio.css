@@ -1,9 +1,12 @@
 :root {
-  --branding-color: #35495e;
-  --primary-color: #42b883;
-  --secondary-color: #347474;
+  --branding-color:  #2c786c;
+  --primary-color: #f8b400;
+  --secondary-color: #faf5e4;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
+}
+.container {
+  background-color: #004445;
 }
 
 p {
